@@ -11,6 +11,7 @@ Hosting a static website on Azure Storage is one of the simplest, most scalable,
 ## 🧰 Prerequisites
 - Basic understanding of Azure
 - An active Azure account (Free Tier works)
+- Static website file (index.html file)
 
 
 --- 
