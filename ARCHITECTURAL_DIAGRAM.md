@@ -11,9 +11,10 @@ flowchart TD
 
 A[User Browser] -->|HTTPS Request| B[Azure Static Website Endpoint]
 
-B --> C[$web Container<br>Static Files (HTML, CSS, JS, Images)]
+B --> C["$web Container\nStatic Files (HTML, CSS, JS, Images)"]
 
 C -->|Serves Content| A
+
 ```
 ---
 
