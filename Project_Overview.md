@@ -53,19 +53,6 @@ By the end of this lab, you will be able to:
 
 ---
 
-## 📂 Repository Structure
-
-Static-Website-on-Azure-Storage-Account/
-│
-├── README.md                # Main lab instructions
-├── PROJECT_OVERVIEW.md      # High-level project summary (this file)
-├── ARCHITECTURAL_DIAGRAM.md # Architecture explanation + diagram
-└── website/                 # Your static site files (index.html, CSS, JS)
-
----
-
----
-
 ## 🎯 Learning Outcomes
 After completing this project, you will understand:
 - Azure Storage Account architecture
