@@ -18,11 +18,11 @@ C -->|Serves Content| A
 ---
 
 ## 🔍 Component Breakdown
-** 1. User Browser **
+**1. User Browser**
 The end user accessing the website from any device.
 Requests static content via HTTPS.
 
-** 2. Azure Static Website Endpoint **
+**2. Azure Static Website Endpoint**
 Generated automatically when static hosting is enabled.
 Example format:
 
@@ -33,7 +33,7 @@ This endpoint:
  - Handles 404 errors using the configured error document
  - Requires no server or backend configuration
 
-** 3. Azure Storage Account**
+**3. Azure Storage Account**
 The core service hosting the website.
 Key features:
  - Highly available object storage
@@ -41,7 +41,7 @@ Key features:
  - Global redundancy options
  - Pay-as-you-go pricing
 
-** 4. $web Container **
+**4. $web Container**
 A special blob container created automatically when static hosting is enabled.
 It stores:
  - index.html
