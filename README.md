@@ -54,7 +54,8 @@ Azure Storage Static Website Hosting provides:
 ##  🚀 Step‑by‑Step Deployment Guide
 
 ## Watch me doing the lab!
-<img width="547" height="311" alt="STATICWEBSITELAB" src="https://github.com/user-attachments/assets/8b46c8a2-ad6c-41ee-bc36-c7d556d580a8" />([https://www.loom.com/share/a0967c6fa3114706adca1df9b1684465](https://www.loom.com/share/95b0e621d2fd48bfb962848b8296bd90))
+[![STATICWEBSITELAB](https://github.com/user-attachments/assets/8b46c8a2-ad6c-41ee-bc36-c7d556d580a8)](https://www.loom.com/share/95b0e621d2fd48bfb962848b8296bd90)
+
 
 
 
